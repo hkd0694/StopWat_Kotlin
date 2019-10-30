@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
         val labTime = this.time;
         val textView = TextView(this)
         textView.text = "$lab LAP : ${labTime / 100}.${labTime % 100}"
-        lapLayout.addView(textView)
+        lapLayout.addView(textView,0)
         lab++
     }
 
