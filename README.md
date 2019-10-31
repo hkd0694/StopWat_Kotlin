@@ -1,4 +1,4 @@
-# Kotlin Study (2/9)
+# Kotlin Study (2/9) - 2019/10/30
 
 Kotlin을 공부하기 위해 간단한 앱부터 복잡한 앱까지 만들어 봄으로써 Kotlin에 대해 하기!
 
